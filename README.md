@@ -13,7 +13,8 @@ The Random Colors App is a simple iOS application that allows users to click on 
 
 ## Pictures
 
-<img src="Docs/random-color-1.png" width="234" height="506" />
-<img src="Docs/random-color-2.png" width="234" height="506" />
-
+<div>
+<img style: "inline-block; float: left" src="Docs/random-color-1.png" width="234" height="506" />
+<img style: "inline-block; float: left" src="Docs/random-color-2.png" width="234" height="506" />
+</div>
 
