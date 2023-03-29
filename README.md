@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Pastel Cells App is a simple iOS application that allows users to click on a cell with a pastel-colored background and open a new view. The new view will display a cell with the same pastel-colored background as the one that the user clicked on.
+The Pastel Cells App is a simple iOS application that allows users to click on a cell with a pastel-colored background and open a new view. The new view will display a view with the same pastel-colored background as the one that the user clicked on.
 
 ## Installation
 
