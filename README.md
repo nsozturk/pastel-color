@@ -1,6 +1,7 @@
 # RandomColorApp
-![](Docs/random-color-1.png)
-![](Docs/random-color-2.png)
+
+<img src="Docs/random-color-1.png" width="234" height="506" />
+<img src="Docs/random-color-2.png" width="234" height="506" />
 
 
 ## Overview
